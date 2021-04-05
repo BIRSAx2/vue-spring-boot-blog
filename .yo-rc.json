@@ -41,7 +41,9 @@
     "creationTimestamp": 1617619852087,
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Blog", "Post", "Tag"],
+    "lastLiquibaseTimestamp": 1617619897000
   },
   "git-provider": "GitHub",
   "git-company": "BIRSAx2",
